@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #777777;
+    background-image:url('../images/HP_paper.gif');
+    text-align: center;
+}
+.container{
+    width:940px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    overflow:hidden;
+}
+.logo{
+   font-size:40px;
+   font-weight: bold;
+   /*font-family: 'Alex Brush', cursive;*/
+   font-family: 'Bad Script', cursive;
+   height:auto;
+   float:left;
+   color:white;
+  background-color: #4aaaa5;
+}
+.nav-link ul li{
+    display:inline-block;
+    text-align: center;
+    margin-left:25px;
+}
+.nav-link ul {
+    float:right;
+    text-align:right;
+    height:auto;
+}
+h1{
+   width: auto;
+   margin: auto;
+}
+.wrapper{
+width: 720px;
+margin: 0px auto;
+}
+.header{
+    margin: 40px 0px 20px 0px;
+}
+.entry{
+    width: 220px;
+    float: left;
+    margin: 10px;
+    height: 198px;
+    background-image: url("images/shadow.png");
+    background-repeat: no-repeat;
+    background-position: botom;
+}
+figure{
+    display: block;
+    width: 202px;
+    height: 170px;
+    background-color: #e7e3d8;
+    margin: 0px;
+    padding: 9px;
+    text-align: left;
+}
+figure img{
+width: 200px;
+height: 150px;
+border: 1px solid #d6d6d6;
+}
+figcaption{
+    background-image: url("images/icon.png") no-repeat;
+    padding-left: 20px;
+}
+.nav-link ul {
+    float:right;
+    text-align:right;
+    height:auto;
+}
+logo{
+    font-size:40px;
+    font-weight: bold;
+    /*font-family: 'Alex Brush', cursive;*/
+    font-family: 'Bad Script', cursive;
+    height:auto;
+    float:left;
+    color:white;
+   background-color: #4aaaa5;
+ }
+ .nav-link ul li{
+     display:inline-block;
+     text-align: center;
+     margin-left:25px;
+ }
+ footer{
+    clear:both;
+    height: 50px;
+    width:100%;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    background-color:black;
+    border-top: solid #4aaaa5 5px;
+}
